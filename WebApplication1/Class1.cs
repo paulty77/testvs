@@ -13,6 +13,6 @@ namespace WebApplication1
 
         public string test2 { get; set; }
 
-        public int test2 { get; set; }
+        public int test23 { get; set; }
     }
 }
